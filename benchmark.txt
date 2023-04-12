@@ -1,0 +1,8 @@
+Default serializer 5k requests:
+
+Avg - 313L
+G1: 29.6%
+GC Thread 4x 6.3%
+
+Serialize - 233 952 samples
+Algorithm - 303 917 samples

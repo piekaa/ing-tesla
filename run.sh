@@ -1,0 +1,1 @@
+java -jar build/libs/ing-1.jar
